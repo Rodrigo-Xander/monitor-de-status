@@ -1,0 +1,8 @@
+{
+  "notes": "Botão 'Notifica' sempre visível: em linhas com nome ou mensagem longa (ex.: 'sem resposta da API'), o botão ficava cortado fora da janela. Agora selo, botão e gráfico têm lugar garantido e o texto é que encolhe. | Escolha quais serviços notificam: cada linha do painel tem o bo...",
+  "private_url": "https://api.github.com/repos/Rodrigo-Xander/monitor-de-status/contents/update/Atualizador-Monitor-de-Status-1.4.1.exe?ref=main",
+  "sha256": "a862052b1be736f30f4cb3ed6d00c1df8eb497aa66646dfca0999dc608d7beab",
+  "size": 35378662,
+  "url": "https://rodrigo-xander.github.io/monitor-de-status/update/Atualizador-Monitor-de-Status-1.4.1.exe",
+  "version": "1.4.1"
+}
